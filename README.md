@@ -31,4 +31,5 @@
 
 ### 1. このリポジトリをクローン
 
-
+git clone https://github.com/yourusername/plant-app.git
+cd plant-app
