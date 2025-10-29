@@ -31,5 +31,5 @@
 
 ### 1. このリポジトリをクローン
 
-git clone https://github.com/yourusername/plant-app.git
+git clone https://github.com/asliddinxanov/plant-app_ai-monitoring.git
 cd plant-app
